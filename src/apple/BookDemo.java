@@ -15,7 +15,7 @@ package apple;
 			a.turnleft();
 			a.turnright();
 			System.out.println(a.checkclosed());
-			
+			//kkkkk
 			
 			
 		}
